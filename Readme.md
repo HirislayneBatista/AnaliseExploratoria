@@ -2,6 +2,10 @@
 
 Neste desafio, foi analisado um conjunto de dados sobre o desempenho acadêmico de estudantes, com o objetivo de realizar uma análise exploratória a fim de responder a uma pergunta norteadora, gerando insights a partir dos dados.
 
+### Tecnologias
+
+Este projeto foi desenvolvido em **Python** e usa bibliotecas como Pandas, NumPy, Matplotlib e Seaborn.
+
 ---
 
 ## **🚀 O Desafio**
